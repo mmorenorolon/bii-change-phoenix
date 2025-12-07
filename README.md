@@ -15,7 +15,8 @@ The workflow integrates spatial vector data from the U.S. Census Bureau with ras
 This repository supports reproducible, open, and transparent environmental analysis.
 
 ## Repository Structure
-Code
+
+```
 bii-change-phoenix/
 │── .gitignore
 ├── data/
@@ -25,7 +26,7 @@ bii-change-phoenix/
 ├── bii_change_phoenix.ipynb       # Jupyter notebook
 │
 └── README.md                      # Project documentation
-
+```
 ## Data Sources
 1. U.S. Census Bureau – County Subdivision Shapefiles (Arizona)
 Used to obtain the official Phoenix subdivision boundary. These shapefiles provide authoritative geographic boundaries for county subdivisions across the United States.
