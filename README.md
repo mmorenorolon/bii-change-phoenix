@@ -12,7 +12,7 @@ The workflow integrates spatial vector data from the U.S. Census Bureau with ras
 - Calculates the percentage of land area with BII ≥ 0.75 for both years
 - Visualizes Phoenix in its geographic context
 
-This repository supports reproducible, open, and transparent environmental analysis.
+This repository was completed as a project for EDS220 course led by Carmen Galaz García at UCSB's Bren School of Environmental Science for the MEDS program.
 
 ## Repository Structure
 
