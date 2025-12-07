@@ -21,7 +21,7 @@ bii-change-phoenix/
 │── .gitignore
 ├── data/
 │   ├── tl_2024_04_cousub       
-│   │   └── tl_2024_04_cousub.shp  # Census county subdivision shapefile (Arizona)
+│       └── tl_2024_04_cousub.shp  # Census county subdivision shapefile (Arizona)
 │
 ├── bii_change_phoenix.ipynb       # Jupyter notebook
 │
