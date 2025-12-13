@@ -39,7 +39,7 @@ The BII rasters are retrieved from the Microsoft Planetary Computer and are not 
 
 ### Phoenix Subdivision Shapefile
 
-The Phoenix subdivision polygon is obtained from the **U.S. Census Bureau TIGER/Line County Subdivision (COUSUB) shapefiles for Arizona**. This polygon is used to clip the BII rasters and summarize biodiversity intactness within the Phoenix subdivision.
+The 2024 Phoenix subdivision polygon is obtained from the **U.S. Census Bureau TIGER/Line County Subdivision (COUSUB) shapefiles for Arizona**. This polygon is used to clip the BII rasters and summarize biodiversity intactness within the Phoenix subdivision.
 
 ## Data Access & Reproducibility
 
