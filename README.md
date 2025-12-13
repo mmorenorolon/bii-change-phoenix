@@ -30,8 +30,11 @@ This analysis uses two datasets:
 
 ### Biodiversity Intactness Index (BII)
 BII raster data are accessed from the **`io-biodiversity`** collection in the **Microsoft Planetary Computer STAC catalog**. Annual BII rasters for **2017** and **2020** are retrieved and spatially subset to the Phoenix subdivision. 
+
 The STAC query uses the following bounding box: 
+
 [-112.826843, 32.974108, -111.184387, 33.863574]
+
 The BII rasters are retrieved from the Microsoft Planetary Computer and are not stored locally.
 
 ### Phoenix Subdivision Shapefile
